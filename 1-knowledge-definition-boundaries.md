@@ -62,7 +62,7 @@ The business domain at the intersection of software development, agile methodolo
 
 Understanding these components, the target audience, relevant terms, operational scope, and personas involved provides a comprehensive overview of the business domain at the intersection of software development, agile methodologies, and the event industry. This knowledge base facilitates strategic planning, effective communication, and the delivery of high-value services to all stakeholders involved.
 
-## Result Mistral-2 :
+## Using Mistral-V0 1 7B Q2_K :
 
 ### Defining the Boundary of Knowledge for Software Developers, Agile People, and Event Industry
 
